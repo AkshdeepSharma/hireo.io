@@ -1,0 +1,35 @@
+{
+  "______________HOME_____________": "",
+  "home_title": "Hireo",
+  "home_hire_me": "Hire Me",
+  "home_hire_you": "See Resumes",
+
+  "______________HEADER_____________": "",
+  "header_title": "Hireo",
+  "header_switch_theme": "Switch theme",
+  "header_show_filter": "Show Filter",
+  "header_hide_filter": "Hide Filter",
+
+  "______________HIRE_ME_PAGE_____________": "",
+  "hire_me_page_upload": "Upload",
+  "hire_me_page_submit": "Submit",
+  "hire_me_page_skills": "Skills",
+  "backendDev_checkbox_message": "Backend",
+  "frontendDev_checkbox_message": "Frontend",
+  "fullstackDev_checkbox_message": "Fullstack",
+  "appDev_checkbox_message": "App",
+  "gameDev_checkbox_message": "Game Dev",
+  "hire_me_page_jobtype": "Job Type",
+  "fulltimeWork_checkbox_message": "Full time",
+  "internWork_checkbox_message": "Intern",
+  "contractWork_checkbox_message": "Contract",
+
+  "______________HIRE_YOU_PAGE_____________": "",
+
+  "______________FOOTER_____________": "",
+  "footer_title": "Footer",
+  "company_name": "Hireo",
+
+  "______________NOT FOUND_____________": "",
+  "not_found_title": "Page not found :("
+}

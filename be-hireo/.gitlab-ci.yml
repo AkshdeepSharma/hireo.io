@@ -1,0 +1,18 @@
+image: node
+
+stages:
+  - dev_checks
+
+eslint:
+  stage: dev_checks
+  script:
+    - npm i
+    - npm run lint
+
+test:
+  stage: dev_checks
+  script:
+    - mkdir .keys
+    - echo $hireo_test_key > .keys/hireo_firebase.json
+    - npm i
+    - npm run test

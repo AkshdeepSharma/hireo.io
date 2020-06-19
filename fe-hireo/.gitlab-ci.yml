@@ -1,0 +1,17 @@
+image: node
+
+stages:
+  - lint
+  - test
+
+eslint:
+ stage: lint
+ script:
+    - npm i
+    - npm run lint
+
+test:
+  stage: test
+  script:
+    - npm i
+    - npm run test
